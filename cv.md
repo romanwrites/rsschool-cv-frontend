@@ -18,7 +18,7 @@ Want to become senior software developer
 I like to design software architecture, code and work in team  
 
 ### Hobbies
-I like to read books, swim, learn english and deutsche, communicate with people
+I like reading books, swimming, learning english and deutsche, communicate with people
 
 ## Works
 * [Minishell](https://github.com/kukinpower/minishell) Own implementation of the shell.
@@ -46,12 +46,15 @@ Parser opens quotes ' " like in bash and handles \ even in ' " different context
 * C++ OOP programming [course](https://github.com/kukinpower/cpp-21) Ecole 42  
 Topics covered:
 ```
-incapsulation, inheritance, polymorphism, abstraction, exceptions, operator overload, canonical form, streams, pointers, non member attributes and functions, templates, STL, casts, namespaces
+incapsulation, inheritance, polymorphism, abstraction, exceptions, 
+operator overload, canonical form, streams, pointers,  
+non member attributes and functions, templates, STL, casts, namespaces
 ```
 
 * [Kubernetes cluster](https://github.com/kukinpower/ft_services)
 ```
-The project goal is to create a kubernetes cluster with: nginx, phpmyadmin, wordpress, ftps, mysql, grafana, telegraf and influxdb.
+The project goal is to create a kubernetes cluster with: 
+nginx, phpmyadmin, wordpress, ftps, mysql, grafana, telegraf and influxdb.
 ```
 
 ### Courses
