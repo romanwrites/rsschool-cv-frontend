@@ -59,6 +59,7 @@ My favorites are:
 * [The Art Of Coding In Modern C++ by Yandex](https://coursera.org/share/758e3ea206b7bbe7213df9227e1faaab)
 * [JavaScript Fundamentals And Functions](https://coursera.org/share/228db663af4c27117df1aa4d888c1622)
 * [Learning How To Learn](https://coursera.org/share/71b1c43f6a11408f7c66d6b56fed2ce8)
+* [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/kukinpower/javascript-algorithms-and-data-structures)
 
 ## Education
 Bachelor degree: [Reshetnev Siberian State University of Science and Technology](http://en.sibsau.ru/), PR and Advertising, 2016  
