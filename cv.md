@@ -18,7 +18,7 @@ Want to become senior software developer
 I like to design software architecture, code and work in team  
 
 ### Hobbies
-I like to read books, learn english and deutsche, communicate with people
+I like to read books, swim, learn english and deutsche, communicate with people
 
 ## Works
 * [Minishell](https://github.com/kukinpower/minishell) Own implementation of the shell.
