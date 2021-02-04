@@ -1,0 +1,51 @@
+ul li a {
+	text-decoration: none;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	vertical-align: baseline;
+	background: #181818;
+	color: #222;
+}
+
+.clear {
+	clear: both;
+}
+
+.details {
+	padding: 25px 35px;
+	border-bottom: 2px solid #cf8a05;
+	display: block;
+	background: #f3f3f3;
+}
+
+#main {
+	width: 90%;
+	max-width: 800px;
+	margin: 30px auto;
+	
+}
+
+#name h1 {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 700;
+	font-size: 2.5em;
+	margin-bottom: -7px;
+}
+
+#name h2 {
+	font-family: 'Open-sans', sans-serif;
+	font-weight: 400;
+}
+
+#name {
+	float: left;
+}
+
+#contacts {
+	font-family: 'Open-sans', sans-serif;
+	margin-top: 30px;
+	float: right;
+}
