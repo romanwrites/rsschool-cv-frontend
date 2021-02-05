@@ -1,12 +1,13 @@
-ul li a {
+ul, li, a {
 	text-decoration: none;
+	list-style-type: none;
 }
 
 body {
 	margin: 0;
 	padding: 0;
 	vertical-align: baseline;
-	background: #181818;
+	background: rgb(79, 79, 79);
 	color: #222;
 }
 
@@ -16,7 +17,7 @@ body {
 
 .details {
 	padding: 25px 35px;
-	border-bottom: 2px solid #cf8a05;
+	border-bottom: 2px solid gray;
 	display: block;
 	background: #f3f3f3;
 }
@@ -25,7 +26,7 @@ body {
 	width: 90%;
 	max-width: 800px;
 	margin: 30px auto;
-	
+	background: #f3f3f3;	
 }
 
 #name h1 {
@@ -48,4 +49,36 @@ body {
 	font-family: 'Open-sans', sans-serif;
 	margin-top: 30px;
 	float: right;
+}
+
+#contacts ul li a:hover { 
+	color: orange;
+}
+
+.section {
+	padding: 20px 0 0;
+}
+
+.title {
+	float: left;
+	width: 25%;
+}
+
+.title h1 {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 700;
+	font-size: 1.5em;
+	padding: 0px 35px;
+}
+
+.content {
+	font-family: 'Open-sans', sans-serif;
+	font-size: .9em;
+	float: left;
+	width: 72.5%;
+}
+
+.content h2 {
+	font-size: 1.5em;
+	margin-bottom: -2px;
 }
